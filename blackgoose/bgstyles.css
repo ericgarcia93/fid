@@ -1,0 +1,135 @@
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 15% 0;
+  background: #d2dc9d url(images2/blackgoose.png) no-repeat center 100px fixed;
+}
+header {
+  margin-top: 0;
+  padding: 3em 1em 2em 1em;
+  text-align: center;
+  background: url(images2/purpledot.png) repeat-x center top;
+  background:
+    url(images2/purpledot.png) left top repeat-y,
+    url(images2/purpledot.png) right top repeat-y,
+    url(images2/gooseshadow.png) 90% bottom no-repeat;
+  background-color: rgba(255, 255, 255, .5);
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #939;
+}
+a:visited {
+  color: #937393;
+}
+a:focus {
+  color: #c700f2;
+  background-color: #fff;
+}
+a:hover {
+  color: #c700f2;
+}
+a:active {
+  color: #ff00ff;
+  background-color: #fff;
+}
+button {
+   border-top: 1px solid #cf1020;
+   background: #fbeb5d;
+   background: -webkit-gradient(linear, left top, left bottom, from(#da9100), to(#fbeb5d));
+   background: -webkit-linear-gradient(top, #da9100, #fbeb5d);
+   background: -moz-linear-gradient(top, #da9100, #fbeb5d);
+   background: -ms-linear-gradient(top, #da9100, #fbeb5d);
+   background: -o-linear-gradient(top, #da9100, #fbeb5d);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: "Lucida Grande", Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+button:hover {
+   border-top-color: #f2c549;
+   background: #f2c549;
+   color: #ccc;
+   }
+button:active {
+   border-top-color: #a57c00;
+   background: #a57c00;
+   }
+h1 {
+  font: bold 1.5em "Marko One", Georgia, serif;
+  text-align: center;
+  text-shadow: .1em .1em .2em gray;
+  color: #939;
+  border-bottom: 1px solid #007791;
+  margin-top: 30px;
+}
+h2 {
+  font-size: 1em;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-align: center;
+  color: #c60;
+}
+hr {
+  border: none;
+  background-color: #007791;
+  height: 1px;
+}
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#info p {
+  font-style: italic;
+}
+.price {
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+p.disclaimer {
+  border-top: 1px solid #d1633c;
+  padding-top: 1em;
+}
+p.warning, sup {
+  font-size: small;
+}
+.label {
+  font-weight: bold;
+  font-variant: small-caps;
+  font-style: normal;
+}
+h2 + p {
+  font-family: "NimbusSanLRegular", sans-serif;
+  text-align: center;
+}
+footer {
+  border-top: 1px solid #007791;
+  text-align: center;
+  padding-top: 1em;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+}

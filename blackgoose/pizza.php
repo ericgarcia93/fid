@@ -3,33 +3,9 @@
 <head>
   <meta charset="utf-8" >
   <title>Thank you for your order</title>
-  <style type="text/css">
-  ol, ul { 
-     list-style-type: none;
-      }
-  body {  
-    background-color: #faf2e4;
-    margin: 0 10%;
-    font-family: sans-serif;
-  }
-  h1 {
-    text-align: center;
-    font-family: serif;
-    font-weight: normal;
-    text-transform: uppercase;
-    border-bottom: 1px solid #57b1dc;
-    margin-top: 30px;
-  }
-
-  h2 {
-    color: #d1633c;
-    font-size: 1em;
-  }
-  p.disclaimer { 
-    border-top: 1px solid #d1633c; 
-    padding-top: 1em;
-  }
-  </style>
+  <link href="http://fonts.googleapis.com/css?family=Marko+One" rel="stylesheet" type="text/css"/>
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/nimbus-sans-l" type="text/css"/>
+  <link rel="stylesheet" href="bgstyles.css"/>
 </head>
 
 <body>
@@ -58,7 +34,7 @@
 
 <?php if (!isset($_POST['crust']) && !isset($_POST['toppings']) && !isset($_POST['pizzas'])) { ?>
 <em>Sorry, we did not receive your information. <a href="http://www.blackgoosebistro.com/pizza.html">Try again.</a></em>
-<?php } 
+<?php }
   else { ?>
     <ul>
     <li><strong>Crust:</strong> <?php print isset($_POST['crust']) && $_POST['crust'] ? $_POST['crust'] : '<em>empty</em>'; ?></li>
