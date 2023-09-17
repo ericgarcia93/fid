@@ -154,9 +154,25 @@
       <stop offset="0" style="stop-color: rgb(76, 187, 23);"/>
       <stop offset="1" style="stop-color: rgb(0, 158, 96);"/>
     </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="3637.793" y1="1742.612" x2="3637.793" y2="1771.141" id="gradient-38" gradientTransform="matrix(-0.998788, 0.049213, -0.073424, -1.490058, 7399.081601, 4181.276177)">
+    <linearGradient gradientUnits="userSpaceOnUse" x1="3637.793" y1="1742.612" x2="3637.793" y2="1771.141" id="gradient-38" gradientTransform="matrix(-0.999991, 0.004217, -0.004984, -1.180871, 7284.266265, 3805.39417)">
       <stop offset="0" style="stop-color: rgb(255, 221, 202);"/>
       <stop offset="1" style="stop-color: rgb(255, 160, 106);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2676.177" y1="1981.913" x2="2676.177" y2="2158.972" id="gradient-39" gradientTransform="matrix(-0.965401, 0.260772, -0.157811, -0.584234, 5583.650532, 2507.651281)">
+      <stop offset="0" style="stop-color: rgba(255, 221, 202, 1)"/>
+      <stop offset="1" style="stop-color: rgba(255, 157, 100, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2897.736" y1="1969.822" x2="2897.736" y2="2173.989" id="gradient-40" gradientTransform="matrix(-0.850831, -0.52544, 0.274981, -0.445269, 4823.538945, 4443.960484)">
+      <stop offset="0" style="stop-color: rgba(255, 221, 202, 1)"/>
+      <stop offset="1" style="stop-color: rgba(255, 157, 100, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="3061.734" y1="1645.214" x2="3061.734" y2="1709.892" id="gradient-41" gradientTransform="matrix(-0.204064, 0.978957, -0.631834, -0.131705, 4786.400859, -1088.576099)">
+      <stop offset="0" style="stop-color: rgba(255, 221, 202, 1)"/>
+      <stop offset="1" style="stop-color: rgba(255, 157, 100, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="3057.015" y1="1652.013" x2="3057.015" y2="1717.608" id="gradient-42" gradientTransform="matrix(0.236714, 0.971579, -0.704888, 0.171739, 3563.113751, -1585.059428)">
+      <stop offset="0" style="stop-color: rgba(255, 221, 202, 1)"/>
+      <stop offset="1" style="stop-color: rgba(255, 157, 100, 1)"/>
     </linearGradient>
   </defs>
   <rect x="-0.29" y="-0.647" width="6000.779" height="2833.99" style="fill: url(#gradient-0);">
@@ -526,7 +542,7 @@
     <ellipse style="fill: rgb(245, 245, 220);" cx="869.099" cy="3090.624" rx="8.483" ry="5.444" transform="matrix(-0.789146, 0.614205, -0.614205, -0.789146, 7502.416555, 4813.524195)"/>
   </g>
   <g transform="matrix(1, 0, 0, 1, -822.895508, -0.423812)" style="">
-    <title>Kokoro-Pok-Guru</title>
+    <title>Kokoro-Pok-Kuru</title>
     <g transform="matrix(0.986648, -0.313213, 0.313213, 0.986648, 1845.217773, 1518.300293)" style="">
       <title>Kokoro Left Arm</title>
       <g transform="matrix(1.383117, -0.734152, 0.665903, 1.254538, -2905.281982, 1679.479248)" style="">
@@ -544,7 +560,7 @@
           <title>Kokoro Left Thumb</title>
         </path>
       </g>
-      <path style="stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 1.93205px; fill: rgb(255, 221, 202); filter: none;" d="M 3134.984 1677.349 L 3002.232 1645.214 C 2988.989 1658.881 2985.313 1673.593 2991.206 1689.352 L 3116.529 1709.892" transform="matrix(0.929445, -0.368961, 0.368961, 0.929445, -403.07692, 1248.171973)">
+      <path style="stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 1.93205px; filter: none; fill: url('#gradient-41');" d="M 3134.984 1677.349 L 3002.232 1645.214 C 2988.989 1658.881 2985.313 1673.593 2991.206 1689.352 L 3116.529 1709.892" transform="matrix(0.929445, -0.368961, 0.368961, 0.929445, -403.07692, 1248.171973)">
         <title>Kokoro Left Forearm</title>
       </path>
     </g>
@@ -680,7 +696,7 @@
     </g>
     <g transform="matrix(0.999609, 0.027942, -0.027942, 0.999609, 2555.402588, 466.04538)" style="">
       <title>Kokoro Leg 1</title>
-      <path style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: rgb(255, 221, 202);" d="M 2655.738 1995.51 C 2647.335 2044.294 2629.548 2111.541 2626.705 2143.469 C 2668.843 2170.875 2714.131 2160.318 2706.428 2124.59 C 2697.077 2081.226 2723.988 2027.633 2725.648 1981.913" transform="matrix(0.912964, 0.408041, -0.408041, 0.912964, 1078.804146, -911.372683)">
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: url('#gradient-39');" d="M 2655.738 1995.51 C 2647.335 2044.294 2629.548 2111.541 2626.705 2143.469 C 2668.843 2170.875 2714.131 2160.318 2706.428 2124.59 C 2697.077 2081.226 2723.988 2027.633 2725.648 1981.913" transform="matrix(0.912964, 0.408041, -0.408041, 0.912964, 1078.804146, -911.372683)">
         <title>Kokoro Ankle 1</title>
       </path>
       <path style="stroke: rgb(0, 0, 0); fill: rgb(82, 75, 42); stroke-width: 3px;" d="M 2595.487 2126.061 C 2588.021 2136.359 2583.932 2158.447 2586.379 2170.239 C 2587.799 2177.081 2596.946 2180.661 2606.949 2182.494 C 2613.911 2183.767 2615.443 2184.881 2623.048 2179.492 C 2684.998 2207.402 2732.804 2208.436 2747.122 2181.295 C 2757.486 2156.114 2726.105 2134.754 2674.54 2122.405 C 2672.432 2142.607 2636.924 2142.947 2595.487 2126.061 Z" transform="matrix(0.963974, 0.265998, -0.265998, 0.963974, 671.312135, -631.611491)">
@@ -689,7 +705,7 @@
     </g>
     <g transform="matrix(1, 0, 0, 1, 2496.741943, 552.793884)">
       <title>Kokoro Leg 2</title>
-      <path style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: rgb(255, 221, 202);" d="M 2888.189 1969.822 C 2883.833 2030.338 2849.289 2125.887 2848.705 2158.303 C 2890.843 2185.709 2934.792 2175.689 2926.81 2140.022 C 2916.873 2095.618 2945.106 2047.823 2946.766 2002.103" transform="matrix(0.796993, -0.603988, 0.603988, 0.796993, -669.144472, 2172.82515)">
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: url('#gradient-40');" d="M 2888.189 1969.822 C 2883.833 2030.338 2849.289 2125.887 2848.705 2158.303 C 2890.843 2185.709 2934.792 2175.689 2926.81 2140.022 C 2916.873 2095.618 2945.106 2047.823 2946.766 2002.103" transform="matrix(0.796993, -0.603988, 0.603988, 0.796993, -669.144472, 2172.82515)">
         <title>Kokoro Ankle 2</title>
       </path>
       <path style="stroke: rgb(0, 0, 0); fill: rgb(82, 75, 42); stroke-width: 3px;" d="M 2906.165 2093.33 C 2897.502 2104.99 2888.016 2132.682 2893.634 2144.422 C 2897.042 2151.544 2904.571 2156.239 2913.343 2159.84 C 2920.125 2162.624 2920.785 2160.547 2924.944 2157.639 C 2987.089 2193.799 3037.637 2185.372 3051.669 2157.651 C 3061.826 2131.932 3031.175 2114.081 2980.637 2101.467 C 2980.377 2119.492 2951.207 2118.86 2906.165 2093.33 Z" transform="matrix(0.697019, -0.717052, 0.717052, 0.697019, -632.017602, 2779.262277)">
@@ -783,7 +799,7 @@
         <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 1.79268px;" d="M 3186.17 1665.634 C 3188.318 1664.392 3190.006 1662.444 3191.234 1659.789" transform="matrix(0.997739, 0.06721, -0.06721, 0.997739, 118.960954, -210.552995)"/>
         <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 1.79268px;" d="M 3183.265 1680.191 C 3185.178 1679.767 3186.795 1678.631 3188.285 1677.571" transform="matrix(0.987103, 0.160088, -0.160088, 0.987103, 309.832097, -488.370423)"/>
       </g>
-      <path style="stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 1.93205px; fill: rgb(255, 221, 202);" d="M 3130.588 1686.104 L 2997.189 1717.608 C 2983.946 1703.941 2980.27 1689.229 2986.163 1673.47 L 3121.228 1652.013">
+      <path style="stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-width: 1.93205px; fill: url('#gradient-42');" d="M 3130.588 1686.104 L 2997.189 1717.608 C 2983.946 1703.941 2980.27 1689.229 2986.163 1673.47 L 3121.228 1652.013">
         <title>Kokoro Right Forearm</title>
       </path>
     </g>
