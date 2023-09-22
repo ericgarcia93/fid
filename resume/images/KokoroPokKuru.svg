@@ -822,7 +822,7 @@
       </path>
     </g>
   </g>
-  <text style="font-family: Arial; font-size: 384px; white-space: pre;" y="-4.902" x="-0.371"><title>Kokoro Text</title><tspan x="1335.599" y="410.318" style="fill: rgb(207, 58, 36); font-size: 384px; word-spacing: 0px;">こ こ ろ </tspan><tspan style="fill: rgb(39, 34, 31); font-size: 384px; word-spacing: 0px;">ポ ッ ク ル</tspan></text>
+  <text style="font-family: Arial; font-size: 384px; stroke: rgb(235, 246, 247); stroke-width: 5px; white-space: pre;"><title>Kokoro Text</title><tspan style="fill: rgb(207, 58, 36); stroke: rgb(255, 218, 233);" x="1335.6" y="410.318">こ こ ろ</tspan><tspan style="fill: rgb(207, 58, 36);"> </tspan><tspan style="fill: rgb(39, 34, 31);">ポ ッ ク ル</tspan></text>
   <g transform="matrix(0.831497, 0, 0, 0.831497, -589.299805, 506.475372)" style="">
     <title>Monogram</title>
     <path style="fill: none; stroke-linecap: round; stroke-width: 9px; stroke: rgb(168, 124, 160);" d="M 1334.839 3179.043 L 1334.839 3132.268 L 1170.307 3181.367 L 999.006 3133.016 L 995.234 3318.556 L 1170.168 3272.717 L 1332.988 3321.265 L 1334.56 3233.461 L 1256.635 3233.97"/>
