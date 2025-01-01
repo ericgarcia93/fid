@@ -2127,7 +2127,7 @@
       <title>Tin Box Right Edge</title>
     </path>
   </g>
-  <ellipse style="fill-opacity: 0.25; transform-box: fill-box; transform-origin: 50% 50%;" cx="5205.754" cy="3001.398" rx="599.724" ry="115.853" transform="matrix(0.988196, 0.153194, -1.660234, 0.754569, -43.862358, -1.525127)">
+  <ellipse style="fill-opacity: 0.2; transform-origin: 5205.65px 3001.4px;" cx="5205.754" cy="3001.398" rx="557.677" ry="86.549" transform="matrix(-0.997035, -0.076953, -1.111917, 0.917154, 19.692133, 41.608163)">
     <title>Penkape Shadow</title>
   </ellipse>
   <g style="transform-origin: 5335.17px 2324.08px;" transform="matrix(-1.822051, -1.624213, -1.624213, 1.822051, -187.517487, 530.965271)">
@@ -2573,7 +2573,7 @@
   </g>
   <g style="" transform="matrix(1.15831, 0, 0, 1.15831, -1248.04248, -280.509338)">
     <title>Kokoro-Pok-Kuru</title>
-    <ellipse style="fill-opacity: 0.25;" cx="3026.805" cy="2877.039" rx="504.847" ry="130.655">
+    <ellipse style="fill-opacity: 0.2; transform-box: fill-box; transform-origin: 50% 50%;" cx="3026.805" cy="2877.039" rx="504.847" ry="130.655" transform="matrix(0.998854, -0.047857, 0.047857, 0.998854, 36.239435, 15.363732)">
       <title>Kokoro Shadow</title>
     </ellipse>
     <g style="" transform="matrix(0.690516, 0, 0, 0.679999, 2096.677246, 1518.799194)">
